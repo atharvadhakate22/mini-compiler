@@ -38,9 +38,7 @@ The following constructs are implemented and parsed correctly:
   - Basic syntax error detection with line info
 - **Symbol Table (optional)**
   - Support for storing and tracking declared variables (if implemented)
-
+    
 ---
-
-## 📂 Project Structure
 
 
